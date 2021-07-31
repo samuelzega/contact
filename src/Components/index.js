@@ -1,0 +1,5 @@
+export {default as Header} from './Header'
+export {default as ContactCard} from './ContactCard'
+export {default as DetailCard} from './DetailCard'
+export {default as ProfileImage} from './ProfileImage'
+export {default as Input} from './Input'

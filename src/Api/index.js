@@ -1,0 +1,5 @@
+export {default as addContact} from './addContact'
+export {default as deleteContact} from './deleteContact'
+export {default as editContact} from './editContact'
+export {default as getAllContact} from './getAllContact'
+export {default as getContactDetail} from './getContactDetail'
